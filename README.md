@@ -8,5 +8,5 @@ I'm are tasked to predict NFL player movement during the video frames after the 
 # Gru
 **RMSE:** .60
 # ML
-**RMSE:** .58
+**RMSE:** .57
 
