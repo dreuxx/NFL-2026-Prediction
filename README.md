@@ -11,7 +11,5 @@ I'm are tasked to predict NFL player movement during the video frames after the 
 **RMSE:** .57
 
 # STT 
-**RMSE:** .55 
-
-**Real RMSE:** That code has a problem; it's saving a broken model. It's giving a .55 when the CV and test before saving are at .46 in total fold.
+**RMSE:** .54
 
