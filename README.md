@@ -11,5 +11,5 @@ I'm are tasked to predict NFL player movement during the video frames after the 
 **RMSE:** .57
 
 # STT 
-**RMSE:** .54
+**RMSE:** .518
 
